@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WebServices</string>
+    <string name="API_KEY">1fb8ac7ca6031d934faa5f3f1098cd99</string>
+    <string name="title">Cupon Title</string>
+    <string name="release_date_lb">Start date:</string>
+    <string name="average_vote">offer value</string>
+    <string name="release_date">18-mar-2008</string>
+    <string name="average_vote_lb">offer text</string>
+    <string name="overview">overview</string>
+    <string name="store">Store</string>
+    <string name="description">descripción</string>
+    <string name="valid">Válido hasta:</string>
+    <string name="fecha">fecha</string>
+</resources>
